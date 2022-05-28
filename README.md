@@ -1,15 +1,12 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 
 # Linux Fundamentals 🐧
 
 ![image](https://user-images.githubusercontent.com/60454486/170843430-4ffb9d7b-6e19-4027-a48a-d61cb47f6365.png)
 
 > Reference: https://www.bu.edu/tech/files/2018/05/2018-Summer-Tutorial-Intro-to-Linux.pdf
-
-
-![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 
 To run a shell script:
 
