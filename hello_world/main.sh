@@ -51,3 +51,13 @@ history
 
 # Tree
 tree #-> needs 'sudo apt install tree'
+
+
+# Creating files
+touch test.txt
+echo 'this is a test...' >> test.txt
+
+
+# Copy files
+mkdir new_dir
+cp test.txt new_dir
