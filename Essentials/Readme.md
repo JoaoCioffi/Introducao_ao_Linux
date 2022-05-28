@@ -34,3 +34,7 @@ tail test.txt > tail_content.txt
 3- Calendar:
 
 ![image](https://user-images.githubusercontent.com/60454486/170841595-e8d7b2a1-aa44-4be2-b40d-2642b6f30080.png)
+
+```
+cal
+```
