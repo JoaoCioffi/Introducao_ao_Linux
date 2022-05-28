@@ -1,1 +1,6 @@
+Hello world!
 
+This is a test using nano :)
+
+Created with Ubuntu 20.04 LTS
+2022-05-28 | 04:56:00 pm
