@@ -19,3 +19,10 @@ nano test.txt
 ```
 cat test.txt
 ```
+
+4- Visualize head and tail of a file (10 first and/or 10 last rows):
+```
+head test.txt
+
+tail test.txt
+```
