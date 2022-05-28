@@ -15,7 +15,7 @@ touch test.txt
 nano test.txt
 ```
 
-## Via terminal
+## Via terminal 💻
 
 1- Visualize a file content:
 ```
