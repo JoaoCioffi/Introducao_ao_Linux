@@ -80,4 +80,6 @@ cal 2020 & cal 2021 # for separated output
 cal 2020 && cal 2021 # all in one output
 
 mkdir new_dir && touch new_file.txt # two cmds in a single line
+
+mkdir new_dir && touch new_file.txt && echo 'hello' >> new_file.txt && cat new_file.txt
 ```
