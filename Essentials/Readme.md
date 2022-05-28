@@ -2,6 +2,21 @@
 
 ---
 
+> Kernel Architecture 🏛
+
+![image](https://user-images.githubusercontent.com/60454486/170844607-6d00a408-c8c9-40b0-889a-9180d67392c4.png)
+
+```
+arch
+
+uname
+
+uname -r
+```
+
+
+---
+
 > Native Text Editor (Nano) 📝
 
 ![image](https://user-images.githubusercontent.com/60454486/170841152-b819a8f5-0ab5-4648-858c-8b2bf805d666.png)
