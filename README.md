@@ -16,5 +16,3 @@ chmod R 777 .
 ```
 ./script.sh
 ```
-
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={JoaoCioffi}&theme=vue
