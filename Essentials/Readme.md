@@ -1,4 +1,4 @@
-# 💡 Essentials 💡
+# Essentials 💡
 
 ## Native Text Editor (Nano) 📝
 
