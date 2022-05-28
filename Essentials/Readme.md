@@ -39,8 +39,17 @@ tail test.txt > tail_content.txt
 cat test.txt | grep a #looking for 'a' in this file
 ```
 
+4- Return the type of a file
 
-4- Calendar and Date:
+![image](https://user-images.githubusercontent.com/60454486/170842582-9da6e0b5-f55d-4169-ab4d-0d912014afd6.png)
+
+
+```
+file test.txt
+```
+
+
+5- Calendar and Date:
 
 ![image](https://user-images.githubusercontent.com/60454486/170841774-b8b09762-36ea-41bc-999b-8f4b241e74b5.png)
 
@@ -61,4 +70,14 @@ cal maio 2022
 date
 
 date >> calendar_content.txt #the double '>>' means that we're editting a previous created file, not overwriting
+```
+
+
+6- Multiple commands:
+```
+cal 2020 & cal 2021 # for separated output
+
+cal 2020 && cal 2021 # all in one output
+
+mkdir new_dir && touch new_file.txt # two cmds in a single line
 ```
