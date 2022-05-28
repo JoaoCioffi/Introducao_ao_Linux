@@ -4,6 +4,8 @@
 
 To run a shell script:
 
+![image](https://user-images.githubusercontent.com/60454486/170837041-07b2b4c0-bc67-4102-b504-f08b50b3bf15.png)
+
 1- Change reading permissions:
 ```
 chmod R 777 .
