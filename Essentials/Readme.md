@@ -10,6 +10,14 @@
 free
 ```
 
+> Memory Usage
+
+![image](https://user-images.githubusercontent.com/60454486/170844738-c2ca3ed3-06e4-4394-9913-127d7a72d7ca.png)
+
+```
+du -h ~ | more
+```
+
 ---
 
 > Kernel Architecture 🏛
