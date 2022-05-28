@@ -1,7 +1,6 @@
 # 📌Essentials
 
 ---
----
 
 > Native Text Editor (Nano) 📝
 
@@ -19,7 +18,6 @@ touch test.txt
 nano test.txt
 ```
 
----
 ---
 
 > Via terminal 💻
@@ -121,7 +119,6 @@ whatis pwd
 find ~ -name test.txt
 ```
 
----
 ---
 
 > Types of Directories 📁
