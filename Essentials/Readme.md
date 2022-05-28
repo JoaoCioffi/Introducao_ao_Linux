@@ -14,3 +14,8 @@ touch test.txt
 ```
 nano test.txt
 ```
+
+3- Visualize a file content:
+```
+cat test.txt
+```
