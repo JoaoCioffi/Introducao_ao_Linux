@@ -20,7 +20,7 @@ To run a shell script:
 chmod R 777 .
 ```
 
-2- Run the script (Kernel)
+2- Run the script (terminal)
 ```
 ./script.sh
 ```
