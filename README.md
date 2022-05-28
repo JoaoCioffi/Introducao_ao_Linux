@@ -4,8 +4,6 @@
 
 To run a shell script:
 
-![image](https://user-images.githubusercontent.com/60454486/170837041-07b2b4c0-bc67-4102-b504-f08b50b3bf15.png)
-
 ![image](https://user-images.githubusercontent.com/60454486/170837280-3463207e-e4b1-48b5-baaa-729eac0638c9.png)
 
 
