@@ -31,7 +31,7 @@ tail test.txt
 tail test.txt > tail_content.txt
 ```
 
-3- Calendar:
+3- Calendar and Date:
 
 ![image](https://user-images.githubusercontent.com/60454486/170841633-8bf47386-670f-4357-a818-a1ddcbd7667b.png)
 
@@ -39,4 +39,12 @@ tail test.txt > tail_content.txt
 cal
 
 cal > calendar_content.txt
+```
+
+![image](https://user-images.githubusercontent.com/60454486/170841703-bc62a305-10c2-4fe2-bd45-0026a4bb30a8.png)
+
+```
+date
+
+date >> calendar_content.txt #the double '>>' means that we're editting a previous created file, not overwriting
 ```
