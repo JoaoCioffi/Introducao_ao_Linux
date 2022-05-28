@@ -194,3 +194,13 @@ lsusb #all connected usb devices
 ```
 cat /etc/passwd
 ```
+
+---
+
+> Power cmds 🔋
+
+```
+reboot
+
+shutdown
+```
