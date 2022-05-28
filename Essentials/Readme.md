@@ -202,5 +202,7 @@ cat /etc/passwd
 ```
 reboot
 
+shutdown --help
+
 shutdown
 ```
