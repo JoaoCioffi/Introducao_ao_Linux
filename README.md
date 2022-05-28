@@ -6,9 +6,7 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/60454486/170843430-4ffb9d7b-6e19-4027-a48a-d61cb47f6365.png)
-
-> Reference: https://www.bu.edu/tech/files/2018/05/2018-Summer-Tutorial-Intro-to-Linux.pdf
+> Main Reference: https://www.bu.edu/tech/files/2018/05/2018-Summer-Tutorial-Intro-to-Linux.pdf
 
 ---
 
