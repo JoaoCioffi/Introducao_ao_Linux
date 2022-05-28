@@ -15,14 +15,18 @@ touch test.txt
 nano test.txt
 ```
 
-3- Visualize a file content:
+## Via terminal
+
+1- Visualize a file content:
 ```
 cat test.txt
 ```
 
-4- Visualize head and tail of a file (10 first and/or 10 last rows):
+2- Visualize head and tail of a file (10 first and/or 10 last rows):
 ```
 head test.txt
 
 tail test.txt
+
+tail test.txt > tail_content.txt
 ```
