@@ -31,7 +31,16 @@ tail test.txt
 tail test.txt > tail_content.txt
 ```
 
-3- Calendar and Date:
+3- Search for a character or word with grep
+
+![image](https://user-images.githubusercontent.com/60454486/170841967-daf61efe-f9ee-42e7-b3b1-dcfd473d4c7f.png)
+
+```
+cat test.txt | grep a #looking for 'a' in this file
+```
+
+
+4- Calendar and Date:
 
 ![image](https://user-images.githubusercontent.com/60454486/170841774-b8b09762-36ea-41bc-999b-8f4b241e74b5.png)
 
