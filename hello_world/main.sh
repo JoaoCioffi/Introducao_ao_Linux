@@ -32,3 +32,7 @@ echo "#----------------------------------#"
 # Changing directory
 cd / #-> root
 cd $Home #-> home
+
+
+# documentation for a command
+man ls
