@@ -34,7 +34,7 @@ cd / #-> root
 cd $Home #-> home
 
 
-# documentation for a command
+# documentation for a specific command
 man ls
 
 
