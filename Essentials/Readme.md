@@ -3,10 +3,9 @@
 ---
 ---
 
-## Native Text Editor (Nano) 📝
+> Native Text Editor (Nano) 📝
 
 ![image](https://user-images.githubusercontent.com/60454486/170841152-b819a8f5-0ab5-4648-858c-8b2bf805d666.png)
-
 
 1- Create an empty text file:
 ```
@@ -23,7 +22,7 @@ nano test.txt
 ---
 ---
 
-## Via terminal 💻
+> Via terminal 💻
 
 1- Visualize a file content:
 ```
@@ -125,7 +124,7 @@ find ~ -name test.txt
 ---
 ---
 
-## Types of Directories 📁
+> Types of Directories 📁
 
 - /bin/: main binaries
 - /boot/: boot system files
