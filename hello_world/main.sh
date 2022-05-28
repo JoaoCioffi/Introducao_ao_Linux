@@ -61,3 +61,8 @@ echo 'this is a test...' >> test.txt
 # Copy files
 mkdir new_dir
 cp test.txt new_dir
+
+
+# Delete Files and/or directoris
+rmdir new_dir
+rm test.txt
