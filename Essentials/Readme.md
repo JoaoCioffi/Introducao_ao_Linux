@@ -1,7 +1,5 @@
 # 📌Essentials
 
----
-
 > Memory Info 💾
 
 ![image](https://user-images.githubusercontent.com/60454486/170844634-9f56f07e-e372-42a6-ad05-a40194a1c916.png)
