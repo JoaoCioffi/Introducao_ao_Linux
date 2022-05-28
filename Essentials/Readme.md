@@ -184,3 +184,13 @@ lspci #all connected pci devices
 
 lsusb #all connected usb devices
 ```
+
+---
+
+> Lists all users 👨‍👨‍👦‍👦
+
+![image](https://user-images.githubusercontent.com/60454486/170844800-e3635f30-177d-4187-b6f8-d47ffd64c4d5.png)
+
+```
+cat /etc/passwd
+```
