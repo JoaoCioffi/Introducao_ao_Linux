@@ -126,6 +126,8 @@ find ~ -name test.txt
 
 > Types of Directories 📁
 
+![image](https://user-images.githubusercontent.com/60454486/170844152-b64e75c1-2574-4f8a-b599-725d99edfc72.png)
+
 - /bin/: main binaries
 - /boot/: boot system files
 - /dev/: devices files
