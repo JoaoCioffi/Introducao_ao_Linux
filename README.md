@@ -5,6 +5,7 @@
 # Linux Fundamentals 🐧
 
 ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+
 To run a shell script:
 
 ![image](https://user-images.githubusercontent.com/60454486/170837280-3463207e-e4b1-48b5-baaa-729eac0638c9.png)
