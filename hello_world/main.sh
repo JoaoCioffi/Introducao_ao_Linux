@@ -36,3 +36,8 @@ cd $Home #-> home
 
 # documentation for a command
 man ls
+
+
+# Current used commands (history)
+history
+!! #-> run the last used cmd
