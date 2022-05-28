@@ -2,6 +2,16 @@
 
 ---
 
+> Memory Info 💾
+
+![image](https://user-images.githubusercontent.com/60454486/170844634-9f56f07e-e372-42a6-ad05-a40194a1c916.png)
+
+```
+free
+```
+
+---
+
 > Kernel Architecture 🏛
 
 ![image](https://user-images.githubusercontent.com/60454486/170844607-6d00a408-c8c9-40b0-889a-9180d67392c4.png)
