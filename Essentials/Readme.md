@@ -115,3 +115,5 @@ whatis pwd
 ```
 find ~ -name test.txt
 ```
+
+## Types of Directories 📁🗂
