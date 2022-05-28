@@ -29,6 +29,12 @@ echo "#----------------------------------#"
 # cd ..
 
 
+# Moves or Rename a directory
+# mv new_dir new_dir_name # changes the name of the current dir
+# mv new_dir another_dir # moves the current dir to the second one (if exists)
+
+
+
 # Changing directory
 cd / #-> root
 cd $Home #-> home
