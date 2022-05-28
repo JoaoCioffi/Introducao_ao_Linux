@@ -10,6 +10,8 @@
 touch test.txt
 ```
 
+---
+
 2- Open with nano and edit content:
 ```
 nano test.txt
@@ -22,6 +24,8 @@ nano test.txt
 cat test.txt
 ```
 
+---
+
 2- Visualize head and tail of a file (10 first and/or 10 last rows):
 ```
 head test.txt
@@ -31,6 +35,8 @@ tail test.txt
 tail test.txt > tail_content.txt
 ```
 
+---
+
 3- Search for a character or word with grep
 
 ![image](https://user-images.githubusercontent.com/60454486/170841967-daf61efe-f9ee-42e7-b3b1-dcfd473d4c7f.png)
@@ -38,6 +44,8 @@ tail test.txt > tail_content.txt
 ```
 cat test.txt | grep a #looking for 'a' in this file
 ```
+
+---
 
 4- Return the type of a file
 
@@ -48,6 +56,7 @@ cat test.txt | grep a #looking for 'a' in this file
 file test.txt
 ```
 
+---
 
 5- Calendar and Date:
 
@@ -72,6 +81,7 @@ date
 date >> calendar_content.txt #the double '>>' means that we're editting a previous created file, not overwriting
 ```
 
+---
 
 6- Multiple commands:
 ```
@@ -84,6 +94,8 @@ mkdir new_dir && touch new_file.txt # two cmds in a single line
 mkdir new_dir && touch new_file.txt && echo 'hello' >> new_file.txt && cat new_file.txt
 ```
 
+---
+
 7- Checkout a command usability with whatis
 
 ![image](https://user-images.githubusercontent.com/60454486/170842784-03a2e531-fe55-45a8-98e4-38404f4c4f31.png)
@@ -92,6 +104,8 @@ mkdir new_dir && touch new_file.txt && echo 'hello' >> new_file.txt && cat new_f
 ```
 whatis pwd
 ```
+
+---
 
 8- Search for a file address from home using its name
 
