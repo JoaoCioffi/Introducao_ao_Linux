@@ -41,3 +41,7 @@ man ls
 # Current used commands (history)
 history
 !! #-> run the last used cmd
+
+
+# Tree
+tree #-> needs 'sudo apt install tree'
