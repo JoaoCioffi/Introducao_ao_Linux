@@ -92,3 +92,12 @@ mkdir new_dir && touch new_file.txt && echo 'hello' >> new_file.txt && cat new_f
 ```
 whatis pwd
 ```
+
+8- Search for a file address from home using its name
+
+![image](https://user-images.githubusercontent.com/60454486/170843336-e1529db5-4b7b-4a6a-917c-6c2aa292702a.png)
+
+
+```
+find ~ -name test.txt
+```
