@@ -37,4 +37,6 @@ tail test.txt > tail_content.txt
 
 ```
 cal
+
+cal > calendar_content.txt
 ```
