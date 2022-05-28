@@ -83,3 +83,12 @@ mkdir new_dir && touch new_file.txt # two cmds in a single line
 
 mkdir new_dir && touch new_file.txt && echo 'hello' >> new_file.txt && cat new_file.txt
 ```
+
+7- Checkout a command usability with whatis
+
+![image](https://user-images.githubusercontent.com/60454486/170842784-03a2e531-fe55-45a8-98e4-38404f4c4f31.png)
+
+
+```
+whatis pwd
+```
