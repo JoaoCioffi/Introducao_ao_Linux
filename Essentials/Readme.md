@@ -56,8 +56,6 @@ uname -r
 touch test.txt
 ```
 
----
-
 2- Open with nano and edit content:
 ```
 nano test.txt
