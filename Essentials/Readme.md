@@ -1,5 +1,7 @@
 # 📌Essentials
 
+---
+
 ## Native Text Editor (Nano) 📝
 
 ![image](https://user-images.githubusercontent.com/60454486/170841152-b819a8f5-0ab5-4648-858c-8b2bf805d666.png)
