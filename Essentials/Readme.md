@@ -2,7 +2,7 @@
 
 ## Native Text Editor (Nano) 📝
 
-![image](https://user-images.githubusercontent.com/60454486/170841075-fb0f7def-ac1f-46a5-b218-fa134fac8dc4.png)
+![image](https://user-images.githubusercontent.com/60454486/170841152-b819a8f5-0ab5-4648-858c-8b2bf805d666.png)
 
 
 1- Create an empty text file:
