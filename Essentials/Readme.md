@@ -33,13 +33,15 @@ tail test.txt > tail_content.txt
 
 3- Calendar and Date:
 
-![image](https://user-images.githubusercontent.com/60454486/170841633-8bf47386-670f-4357-a818-a1ddcbd7667b.png) ![image](https://user-images.githubusercontent.com/60454486/170841774-b8b09762-36ea-41bc-999b-8f4b241e74b5.png)
+![image](https://user-images.githubusercontent.com/60454486/170841774-b8b09762-36ea-41bc-999b-8f4b241e74b5.png)
 
 
 ```
 cal
 
 cal > calendar_content.txt
+
+cal 2022
 ```
 
 ![image](https://user-images.githubusercontent.com/60454486/170841703-bc62a305-10c2-4fe2-bd45-0026a4bb30a8.png)
