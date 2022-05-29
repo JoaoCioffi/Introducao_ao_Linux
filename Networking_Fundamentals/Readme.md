@@ -1,6 +1,8 @@
 # Networking Fundamentals and Advanced Commands
 
-## ifconfig
+## Networking 🌏
+
+### 1- ip
 
 ```
 sudo apt install net-tools
