@@ -24,3 +24,12 @@ hostname -I #ip address
 ```
 hostname -i #loopback ip address
 ```
+
+### 3- Ping info
+
+![image](https://user-images.githubusercontent.com/60454486/170848055-702d69dd-a4ba-4147-94bb-d7b7ecb336a8.png)
+
+
+```
+ping www.google.com -w 4
+```
