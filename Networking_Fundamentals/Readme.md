@@ -2,8 +2,12 @@
 
 ## Networking 🌏
 
-### 1- ip
+### 1- Read Networking Interfaces
 
 ```
 sudo apt install net-tools
+```
+
+```
+ifconfig
 ```
