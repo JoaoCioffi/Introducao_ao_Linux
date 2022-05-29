@@ -33,3 +33,11 @@ hostname -i #loopback ip address
 ```
 ping www.google.com -w 4
 ```
+
+### 4- DNS
+
+![image](https://user-images.githubusercontent.com/60454486/170848235-812ff2af-bcd6-4b40-aae9-48ed7005d6e9.png)
+
+```
+dig www.google.com
+```
