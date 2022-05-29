@@ -27,7 +27,7 @@ hostname -i #loopback ip address
 
 ### 3- Ping info
 
-![image](https://user-images.githubusercontent.com/60454486/170848055-702d69dd-a4ba-4147-94bb-d7b7ecb336a8.png)
+![image](https://user-images.githubusercontent.com/60454486/170848125-bbbf4670-5531-4181-ac5b-3b424347c7b5.png)
 
 
 ```
